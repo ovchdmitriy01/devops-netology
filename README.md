@@ -7,3 +7,5 @@
 Игнорировать все файлы переопределения override.tf override.tf.json *_override.tf *_override.tf.json, кроме !example_override.tf, поскольку исключение обозначается «!»
 
 Игнорировать все файлы .terraformrc и terraform.rc
+
+Добавление ветки fix
